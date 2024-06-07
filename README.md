@@ -649,6 +649,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         <td>
             Python script that allows to query multiple online threat aggregators from a single interface.
         </td>
+        </tr>
+    <tr>
+        <td>
+            <a href="https://www.hudsonrock.com/threat-intelligence-cybercrime-tools" target="_blank">Hudson Rock Cybercrime Intelligence Tools</a>
+        </td>
+        <td>
+            Free tools that provide additional intelligence for compromised assets in global Infostealer attacks.
+        </td>
     </tr>
     <tr>
         <td>
